@@ -1,0 +1,8 @@
+autogen
+yfinance
+requests
+langchain
+langchain-community
+duckduckgo-search
+transformers
+python-dotenv
